@@ -14,6 +14,7 @@ public class github {
 	}
 	public static void schachgrossmeister() {
 		System.out.println("schachgrossmeister");
+		System.out.println("test#1");
 	}
 
 }
